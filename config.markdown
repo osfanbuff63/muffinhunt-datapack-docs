@@ -1,5 +1,5 @@
 ---
-permalink: /config.markdown
+permalink: /config
 layout: default
 ---
 # Config

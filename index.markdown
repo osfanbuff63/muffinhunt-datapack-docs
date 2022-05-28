@@ -1,5 +1,5 @@
 ---
-permalink: /index.markdown
+permalink: /index
 layout: default
 ---
 

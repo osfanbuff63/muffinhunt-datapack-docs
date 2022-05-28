@@ -1,5 +1,5 @@
 ---
-permalink: /commands.markdown
+permalink: /commands
 layout: default
 ---
 # Commands
