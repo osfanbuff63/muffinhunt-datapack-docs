@@ -9,6 +9,6 @@ plugins:
   - "jekyll-paginate-v2"
   - "jekyll-mentions"
   - "jemoji"
-url: https://osfanmuffin.github.io/muffinhunt-datapack
+url: https://osfanmuffin.github.io/muffinhunt-datapack-docs
 domain: osfanmuffin.github.io
 repository: osfanmuffin/muffinhunt-datapack-docs
