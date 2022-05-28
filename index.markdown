@@ -1,5 +1,6 @@
 ---
 permalink: /index
+layout: default
 ---
 
 ![GitHub](https://img.shields.io/github/license/osfanmuffin/muffinhunt-datapack?color=green)

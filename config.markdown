@@ -1,5 +1,6 @@
 ---
 permalink: /config
+layout: default
 ---
 # Config
 
