@@ -27,4 +27,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: './'
       - name: Init search
-        run: bundle exec just-the-docs rake search:init  
+        run: |
+          bundle install
+          bundle exec just-the-docs rake search:init  
