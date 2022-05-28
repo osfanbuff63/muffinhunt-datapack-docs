@@ -1,0 +1,12 @@
+title: "MuffinHunt Datapack"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+exclude: [README.md, crowdin.yml]
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-timeago"
+  - "jekyll-paginate-v2"
+  - "jekyll-mentions"
+  - "jemoji"
+
