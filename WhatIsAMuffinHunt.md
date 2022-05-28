@@ -1,6 +1,5 @@
 ---
 permalink: /WhatIsAMuffinHunt
-layout: default
 ---
 # What is a MuffinHunt?
 
