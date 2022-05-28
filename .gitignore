@@ -70,3 +70,4 @@ spyglass.json
 /vendor/bundle
 /lib/bundler/man/
 /_site/
+/.jekyll-cache/
