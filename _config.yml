@@ -2,11 +2,13 @@ title: "MuffinHunt Datapack"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "dark"
 search_enabled: true
-exclude: [README.md, crowdin.yml]
+exclude: [README.md, crowdin.yml, renovate.json]
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-timeago"
   - "jekyll-paginate-v2"
   - "jekyll-mentions"
   - "jemoji"
+url: https://osfanmuffin.github.io/muffinhunt-datapack
+domain: osfanmuffin.github.io
 
