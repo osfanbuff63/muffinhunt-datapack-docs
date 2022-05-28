@@ -1,3 +1,7 @@
+---
+permalink: /WhatIsAMuffinHunt
+layout: default
+---
 # What is a MuffinHunt?
 
 _Warning! This page has a lot of info about MuffinHunts! If you want a shorter variant, check out [this page](index). As well, this page describes MuffinHunt as osfanbuff63 and M3FF1N have made it, you are free to adapt as needed._

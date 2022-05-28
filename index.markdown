@@ -1,3 +1,8 @@
+---
+permalink: /index.markdown
+layout: default
+---
+
 ![GitHub](https://img.shields.io/github/license/osfanmuffin/muffinhunt-datapack?color=green)
 ![Language: mcfunction](https://img.shields.io/badge/language-mcfunction-red)
 ![Language: JSON](https://img.shields.io/badge/language-JSON-lightgray)

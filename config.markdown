@@ -1,3 +1,7 @@
+---
+permalink: /config.markdown
+layout: default
+---
 # Config
 
 ## Configurable settings

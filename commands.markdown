@@ -1,3 +1,7 @@
+---
+permalink: /commands.markdown
+layout: default
+---
 # Commands
 
 The MuffinHunt datapack has many commands ready for you to use. First, we'll start with the essentials, and then we'll go into more technical details on commands that can be useful, but aren't essential to the datapack.
