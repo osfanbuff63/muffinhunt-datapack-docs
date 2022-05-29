@@ -29,4 +29,3 @@ Now, we'll create a pull request and commit our changes. This is assuming you ha
 6. Now, let's create a pull request. You will need the GitHub CLI installed from here on out, otherwise use your browser. Run `gh pr create`.
 7. Follow the steps. If it asks you for which pull request template to use, you can just use whichever you like.
 8. If you mess up, you can always select `Open in browser`. Once that is complete, navigate to [the GitHub PR list](https://github.com/osfanmuffin/muffinhunt-datapack-docs/pulls) and see your new pull request!
-
