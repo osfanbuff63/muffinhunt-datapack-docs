@@ -26,6 +26,9 @@ jobs:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: './'
+          pre_build_commands: |
+            git config --local user.name actions-user
+            git config --local user.email action@github.com
       #- name: Init search
         #run: |
           #bundle config path vendor/bundle
