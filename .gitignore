@@ -65,9 +65,10 @@ spyglass.json
 # Temporary files
 *.tmp
 
-# Bundler
+# Docs
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
 /_site/
 /.jekyll-cache/
+/jekyll/
