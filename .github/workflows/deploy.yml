@@ -27,8 +27,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: './'
           pre_build_commands: |
-            git config user.name actions-user
-            git config user.email action@github.com
+            git config --global user.name actions-user
+            git config --global user.email action@github.com
       #- name: Init search
         #run: |
           #bundle config path vendor/bundle
