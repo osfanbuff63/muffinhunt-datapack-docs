@@ -3,7 +3,8 @@ source 'https://rubygems.org'
 gem 'jekyll', '~> 4.2'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'webrick', '~> 1.7.0'
-gem "just-the-docs"
+gem 'just-the-docs', '~> 0.3.3'
+gem 'bundler', '~> 2.3.14'
 
 group :jekyll_plugins do
   gem 'jekyll-timeago', '~> 0.14.0'
