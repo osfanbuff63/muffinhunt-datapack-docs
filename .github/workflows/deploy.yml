@@ -28,5 +28,6 @@ jobs:
           jekyll_src: './'
       - name: Init search
         run: |
+          bundle config path vendor/bundle
           bundle install
           bundle exec just-the-docs rake search:init  
