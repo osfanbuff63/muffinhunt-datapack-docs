@@ -3,7 +3,6 @@
     "config:base",
     ":disableDependencyDashboard"
   ],
-  ],
   "timezone": "America/New_York",
   "schedule": [
     "on monday-friday after 9am"
