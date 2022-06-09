@@ -26,7 +26,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       - name: Deploy to GitHub Pages
-        uses: jeffreytse/jekyll-deploy-action@e03ddfec9224b24ecf8a4607a31b53481485cf57
+        uses: jeffreytse/jekyll-deploy-action@ed1f2e86643db8abe29378dd0a86462a84ec50c2
         with:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }}
