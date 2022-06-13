@@ -2,13 +2,13 @@ title: "MuffinHunt Datapack"
 theme: just-the-docs
 color_scheme: dark
 search_enabled: false
-exclude: [README.md, crowdin.yml, renovate.json]
+exclude: [README.md, crowdin.yml, renovate.json, LICENSE.md, ]
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-timeago"
   - "jekyll-paginate-v2"
   - "jekyll-mentions"
   - "jemoji"
-url: https://osfanmuffin.github.io/muffinhunt-datapack-docs
-domain: osfanmuffin.github.io
-repository: osfanmuffin/muffinhunt-datapack-docs
+url: https://osfanbuff63.github.io/muffinhunt-datapack-docs
+domain: osfanbuff63.github.io
+repository: osfanbuff63/muffinhunt-datapack-docs

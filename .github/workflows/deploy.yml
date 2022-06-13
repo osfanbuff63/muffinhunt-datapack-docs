@@ -41,8 +41,3 @@ jobs:
           pre_build_commands: |
             git config --global user.name actions-user
             git config --global user.email action@github.com
-      #- name: Init search
-        #run: |
-          #bundle config path vendor/bundle
-          #bundle install
-          #bundle exec just-the-docs rake search:init  
