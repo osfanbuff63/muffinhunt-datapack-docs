@@ -26,7 +26,7 @@ jobs:
         with:
           ruby-version: 3.1.2
       - name: Cache ruby dependencies
-        uses: actions/cache@c3f1317a9e7b1ef106c153ac8c0f00fed3ddbc0d
+        uses: actions/cache@a0efc56c52d97277af82db9d7773d0effa61807d
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
