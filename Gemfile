@@ -6,7 +6,7 @@ gem 'webrick', '~> 1.7.0'
 gem 'just-the-docs', '~> 0.3.3'
 
 group :jekyll_plugins do
-  gem 'jekyll-timeago', '~> 0.14.0'
+  gem 'jekyll-timeago', '~> 0.15.0'
   gem 'jekyll-paginate-v2', '~> 3.0.0'
   gem 'jekyll-mentions', '~> 1.6.0'
   gem 'jemoji', '~> 0.12.0'
